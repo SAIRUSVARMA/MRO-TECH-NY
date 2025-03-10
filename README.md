@@ -4,29 +4,27 @@ Built a website for USA client.
 
 ### Home Page
 
-![Screenshot 2025-03-10 220958](https://github.com/user-attachments/assets/060e92dd-12b8-4faf-a25d-cc577fc94bd1)
+![Screenshot 2025-03-10 220958](https://github.com/user-attachments/assets/a9c6ec1a-d992-4103-a2f6-fa0efff0aaf2)
 
 
 ### About Us Page
 
-![Screenshot 2025-03-10 221027](https://github.com/user-attachments/assets/f788a596-e576-4714-815a-fa86d2378943)
+![Screenshot 2025-03-10 221027](https://github.com/user-attachments/assets/4cdef06c-2317-4102-93b0-1fde1ae7f937)
 
 
 ### Services Page
 
-![Screenshot 2025-03-10 221125](https://github.com/user-attachments/assets/e4609758-458d-4f0f-961c-668d29a4e0c5)
+![Screenshot 2025-03-10 221125](https://github.com/user-attachments/assets/84c6c7aa-06cc-4703-b216-f3bfd9ec99c4)
 
 
 ### Values Page
 
-![Screenshot 2025-03-10 221150](https://github.com/user-attachments/assets/4365d8c3-724d-4ae3-b93c-8fb351e7d396)
-
+![Screenshot 2025-03-10 221150](https://github.com/user-attachments/assets/e306c69e-fe37-4057-a537-ec0ceab52182)
 
 
 ### Contact Page
 
-![Screenshot 2025-03-10 222446](https://github.com/user-attachments/assets/2e7229f8-186f-4a42-bde5-98a20454dd0b)
-
+![Screenshot 2025-03-10 222446](https://github.com/user-attachments/assets/a97bc068-df60-4a69-9bb7-6f33a194630a)
 
 
 ## Team
